@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|c:\\users\\pcv2\\source\\repos\\miside.plugin.headpats\\patches\\mitapersonpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|solutionrelative:patches\\mitapersonpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|c:\\users\\pcv2\\source\\repos\\miside.plugin.headpats\\patches\\playerpersonpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FDB0E8-0412-414E-A470-6389C83E5DF0}|MiSide.Plugin.HeadPats.csproj|solutionrelative:patches\\playerpersonpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:29:22.687Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerPersonPatch.cs",
+              "DocumentMoniker": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Patches\\PlayerPersonPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\PlayerPersonPatch.cs",
+              "ToolTip": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Patches\\PlayerPersonPatch.cs",
+              "RelativeToolTip": "Patches\\PlayerPersonPatch.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:45:57.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MitaPersonPatch.cs",
+              "DocumentMoniker": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Patches\\MitaPersonPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\MitaPersonPatch.cs",
+              "ToolTip": "C:\\Users\\PCv2\\source\\repos\\MiSide.Plugin.HeadPats\\Patches\\MitaPersonPatch.cs",
+              "RelativeToolTip": "Patches\\MitaPersonPatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:34:36.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

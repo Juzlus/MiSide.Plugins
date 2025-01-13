@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\photomodeactive\\patches\\gamecontrollerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|solutionrelative:photomodeactive\\patches\\gamecontrollerpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\photomodeactive\\patches\\photomodemainpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|solutionrelative:photomodeactive\\patches\\photomodemainpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\photomodeactive\\patches\\interfacefastmenupatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|solutionrelative:photomodeactive\\patches\\interfacefastmenupatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|f:\\pulpit\\projekty\\github clone\\miside.plugins\\photo mode always active\\photomodeactive\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AC794-D251-409E-BFFC-0B20213BC64F}|PhotoModeActive\\PhotoModeActive.csproj|solutionrelative:photomodeactive\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameControllerPath.cs",
+              "DocumentMoniker": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\GameControllerPath.cs",
+              "RelativeDocumentMoniker": "PhotoModeActive\\Patches\\GameControllerPath.cs",
+              "ToolTip": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\GameControllerPath.cs",
+              "RelativeToolTip": "PhotoModeActive\\Patches\\GameControllerPath.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:57:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhotoModeMainPath.cs",
+              "DocumentMoniker": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\PhotoModeMainPath.cs",
+              "RelativeDocumentMoniker": "PhotoModeActive\\Patches\\PhotoModeMainPath.cs",
+              "ToolTip": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\PhotoModeMainPath.cs",
+              "RelativeToolTip": "PhotoModeActive\\Patches\\PhotoModeMainPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:42:39.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceFastMenuPatch.cs",
+              "DocumentMoniker": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\InterfaceFastMenuPatch.cs",
+              "RelativeDocumentMoniker": "PhotoModeActive\\Patches\\InterfaceFastMenuPatch.cs",
+              "ToolTip": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Patches\\InterfaceFastMenuPatch.cs",
+              "RelativeToolTip": "PhotoModeActive\\Patches\\InterfaceFastMenuPatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:03:33.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Plugin.cs",
+              "RelativeDocumentMoniker": "PhotoModeActive\\Plugin.cs",
+              "ToolTip": "F:\\Pulpit\\Projekty\\Github clone\\MiSide.Plugins\\Photo Mode Always Active\\PhotoModeActive\\Plugin.cs",
+              "RelativeToolTip": "PhotoModeActive\\Plugin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:25:54.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
